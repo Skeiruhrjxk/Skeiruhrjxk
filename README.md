@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Skeiruhrjxk/Skeiruhrjxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Amal Jyothi College of Engineering  
+👩‍💻 Passionate about learning Python, Machine Learning, and exploring the world of tech  
+🧠 Interested in Cyber Security,Mathematics, and creative content writing  
+🌱 Currently getting hands-on with GitHub and open-source contributions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ A little more about me
+- 💡 I love solving problems through code
+- 🗣️ I enjoy helping others and working in teams
+
+
